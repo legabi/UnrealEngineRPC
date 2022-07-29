@@ -10,7 +10,7 @@ Une application Java simple pour afficher que vous êtes sur unreal engine
 
 ## Utilisation
 
-Téléchargez la realese [ici](https://github.com/legabi/UnrealEngineRPC/releases/tag/V1) et lancez le .jar, vous avez plusieurs options à customiser
+Téléchargez la releases [ici](https://github.com/legabi/UnrealEngineRPC/releases/tag/V1) et lancez le .jar, vous avez plusieurs options à customiser
 
 
 ## Support
